@@ -1,2 +1,0 @@
-# sjenkins
-jenkins installation
